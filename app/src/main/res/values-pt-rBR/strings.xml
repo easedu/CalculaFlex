@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calcula Flex</string>
+    <string name="label_gasoline">Gasolina</string>
+    <string name="label_ration_fuel">Gasolina/Etanol: %1$s</string>
+    <string name="label_ethanol">Etanol</string>
+</resources>
